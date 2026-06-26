@@ -1,5 +1,5 @@
 import mymodule
-print("my first line")
-print("my second line")
-print("my most latest third line")
+print("my first line")the very
+print("my second line")new
+print("my most latest third line")lines
 
