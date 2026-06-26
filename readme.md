@@ -1,6 +1,6 @@
-this is my first rep
+first line
 
-just to learn  git
+this is my first rep
 
 
 
